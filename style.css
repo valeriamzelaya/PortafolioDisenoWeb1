@@ -1,0 +1,32 @@
+@import url("file:///Macintosh%20HD/Users/valeriazelaya/Desktop/dise%C3%B1o%20web%201/KarmaIT/fonts/26301410506.ttf";				
+
+:root{
+	--color-general: #6f808a;
+	--fondo-header: #997393;
+	--color-morado: #deb8d8;
+	--color-negro: #1d2124;
+	--color-hover-morado: #bf86b6;
+}
+
+body{
+	font-size: 14px;
+	font-family: avenir regular;
+}
+header{
+	background-color: var(--fondo-header);
+	padding: 20px 0;
+}
+
+footer{
+	background-color: var(--color-hover-morado);
+}
+
+#yo{
+	font-size: 14px;
+	font-family: avenir regular;
+}
+
+
+
+
+
